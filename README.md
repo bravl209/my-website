@@ -86,11 +86,11 @@
 <section id="registration">
   <h2>Реєстрація на Турнір</h2>
   <p>Заповніть форму для участі:</p>
-  <a class="button" href="https://forms.gle/ВАШЕ_ПОСИЛАННЯ" target="_blank">Реєстраційна форма</a>
+  <a class="button" href="https://forms.gle/https://docs.google.com/forms/d/e/1FAIpQLSe9dzLyw4CMBmH2fVwxIl0R8xxf2wIef2Tbp6zgii5zUjGMfA/viewform" target="_blank">Реєстраційна форма</a>
 </section>
 
 <footer>
-  <p>Організатор: Ваше Ім'я | Зв'язок: @ваш_telegram | Більше можливостей на <a href="https://gptonline.ai/" target="_blank">gptonline.ai</a></p>
+  <p>Організатор: Ваше Ім'я | Зв'язок: @brawl_adminturnir 
 </footer>
 
 </body>
